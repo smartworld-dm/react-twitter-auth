@@ -4,3 +4,6 @@ node_modules/**
 package-lock.json
 coverage/**
 example/backend/node_modules/**
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
